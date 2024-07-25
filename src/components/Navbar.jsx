@@ -9,7 +9,7 @@ export default function Navbar() {
       <header className="py-4 px-4 fixed top-0 left-0 right-0 z-40 w-86">
         <div className="">
           <navbar className="border-2 border-green-600 border-opacity-50 backdrop-filter backdrop-blur-lg bg-gray bg-opacity-40 rounded-xl flex items-center justify-between shadow-md ">
-            <div className="flex gap-x-5 px-7 py-4">
+            <div className="flex gap-x-5 px-4 py-4">
               <NavLink
                 to="/"
                 className={({ isActive }) =>
@@ -110,7 +110,7 @@ export default function Navbar() {
               <a href="http://github.com/RituRaj30">
                 <button
                   type="button"
-                  className="gap-x-1 before:ease relative overflow-hidden border border-black bg-black text-white shadow-2xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700 hover:before:-translate-x-40 font-medium rounded-lg text-sm px-2 py-2 text-center inline-flex items-center mr-8 "
+                  className="gap-x-1 before:ease relative overflow-hidden border border-black bg-black text-white shadow-2xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700 hover:before:-translate-x-40 font-medium rounded-lg text-sm px-2 py-2 text-center inline-flex items-center mr-7 "
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
