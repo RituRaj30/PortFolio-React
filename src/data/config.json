@@ -1,0 +1,70 @@
+{
+  "job": "Frontend Developer",
+  "name": "Ritu Raj",
+  "desc": "A passionate software developer. Explore my projects, skills, and experiences to see how I can help bring your ideas to life. Thank you for visiting!",
+  "aboutDesc": "Welcome to my portfolio! I'm an innovative and dedicated software engineer with a passion for crafting elegant solutions to complex problems. With a foundation in computer science, I take pride in creating efficient, scalable, and user-friendly applications that make a positive impact. I am a curious and driven individual who constantly seeks to expand my skill set and stay up-to-date with the latest industry trends. My journey in the world of software began with a fascination for coding and problem-solving. Over the years, this passion has grown into a full-fledged career, enabling me to work on a diverse range of projects and technologies.",
+  "email": "rajritu1729@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://github.com/RituRaj30",
+  "projects": [
+    {
+      "name": "Portfolio",
+      "website": "",
+      "images": "React + Tailwind Portfolio"
+    },
+    {
+      "name": "Koo Landing Page",
+      "website": "https://rituraj30.github.io/Koo_App_Clone/",
+      "images": "HTML, CSS"
+    },
+    {
+      "name": "Resume Builder",
+      "website": "https://rituraj30.github.io/Resume_Builder/",
+      "images": "HTML, CSS & JavaScript"
+    },
+    {
+      "name": "Color-changer",
+      "website": "https://color-changer-fawn.vercel.app/",
+      "images": "ReactJS"
+    },
+    {
+      "name": "Random-Quote-Generator",
+      "website": "https://rituraj30.github.io/Random-Quote-Generator/",
+      "images": "HTML, CSS & JavaScript"
+    },
+    {
+      "name": "Random_jokes_generator",
+      "website": "https://rituraj30.github.io/Random_jokes_generator/",
+      "images": "HTML, CSS & JavaScript"
+    },
+    {
+      "name": "ToDo-List",
+      "website": "https://rituraj30.github.io/Todo_List/",
+      "images": "HTML, CSS & JavaScript"
+    },
+    {
+      "name": "Weather App",
+      "website": "https://weather-app-psi-ecru.vercel.app/",
+      "images": "HTML, CSS & JavaScript"
+    },
+    {
+      "name": "Currency Counter",
+      "website": "https://rituraj30.github.io/CurrencyDenomCounter/",
+      "images": "HTML, CSS & JavaScript"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://x.com/Ritu_Raj_62"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/RituRaj30"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/ritu-raj-a9ba66257"
+    }
+  ]
+}
